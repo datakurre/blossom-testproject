@@ -12,6 +12,7 @@
     "node":       ">=0.6.0"
   },
   "dependencies": {
-    "blossom" :       "1.0.0-beta.1"
+    "blossom" :       "1.0.0-beta.1",
+    "coffee-script" :  "1.2.0"
   }
 }
